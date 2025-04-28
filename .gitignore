@@ -1,0 +1,40 @@
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual Environment
+venv/
+env/
+*.egg-info/
+
+# Data and Models
+data/
+model/
+*.pth
+*.pt
+
+# Logs
+*.log
+logs/
+*.json
+
+# TensorBoard
+runs/
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints/
+
+# Editor/IDE specific
+.vscode/
+.idea/
+*.swp
+
+# Matplotlib Figures
+*.png
+*.svg
